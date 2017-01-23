@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28332" started-at="2017-01-23T00:55:55Z" finished-at="2017-01-23T00:56:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28332" started-at="2017-01-23T00:55:55Z" finished-at="2017-01-23T00:56:24Z">
+      <class name="com.search.com.tests.SearchTest">
+        <test-method status="PASS" signature="searchVerification()[pri:0, instance:com.search.com.tests.SearchTest@5dc7c133]" name="searchVerification" duration-ms="28319" started-at="2017-01-22T16:55:55Z" finished-at="2017-01-22T16:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchVerification -->
+      </class> <!-- com.search.com.tests.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
